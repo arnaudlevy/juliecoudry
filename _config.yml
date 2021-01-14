@@ -22,7 +22,7 @@ title: Julie Coudry
 email: your-email@example.com
 description:
 baseurl: "/juliecoudry" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://arnaudlevy.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
