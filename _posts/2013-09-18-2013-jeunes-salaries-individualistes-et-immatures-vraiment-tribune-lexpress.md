@@ -4,7 +4,7 @@ title: "Jeunes salariés : individualistes et immatures, vraiment ? Tribune L'Ex
 date: 2013-09-18T11:48:17+00:00
 ---
 <div class="entry-content" itemprop="text">
-<p><a href="http://www.lexpress.fr/emploi-carriere/emploi/des-jeunes-salaries-immatures-et-individualistes-vraiment_1219622.html"><img class="alignleft size-full wp-image-1725" alt="Capture d’écran 2013-02-13 à 20.09.55" src="http://www.juliecoudry.com/wp-content/uploads/2013/02/Capture-d%E2%80%99%C3%A9cran-2013-02-13-%C3%A0-20.09.55.png" width="690" height="695" srcset="http://www.juliecoudry.com/wp-content/uploads/2013/02/Capture-d’écran-2013-02-13-à-20.09.55.png 690w, http://www.juliecoudry.com/wp-content/uploads/2013/02/Capture-d’écran-2013-02-13-à-20.09.55-150x150.png 150w, http://www.juliecoudry.com/wp-content/uploads/2013/02/Capture-d’écran-2013-02-13-à-20.09.55-297x300.png 297w" sizes="(max-width: 690px) 100vw, 690px"></a><br>
+<p><a href="http://www.lexpress.fr/emploi-carriere/emploi/des-jeunes-salaries-immatures-et-individualistes-vraiment_1219622.html"><img class="alignleft size-full wp-image-1725" alt="Capture d’écran 2013-02-13 à 20.09.55" src="/juliecoudry/uploads/2013/02/Capture-d%E2%80%99%C3%A9cran-2013-02-13-%C3%A0-20.09.55.png" width="690" height="695" srcset="/juliecoudry/uploads/2013/02/Capture-d’écran-2013-02-13-à-20.09.55.png 690w, /juliecoudry/uploads/2013/02/Capture-d’écran-2013-02-13-à-20.09.55-150x150.png 150w, /juliecoudry/uploads/2013/02/Capture-d’écran-2013-02-13-à-20.09.55-297x300.png 297w" sizes="(max-width: 690px) 100vw, 690px"></a><br>
  <br>
  <br>
  <br>

@@ -5,7 +5,7 @@ date: 2012-05-26T05:17:00+00:00
 ---
 <div class="main">
 		<p><strong><span style="color: #800080;">Enfin un peu de soleil à Paris</span>.</strong> Avec cette chaleur qui revient c’est aussi l’occasion de découvrir ses bras, de mettre de côté les cols roulés et de découvrir jambes et genoux. Bref de prendre plaisir à sentir l’air chaud au contact de sa peau.</p>
-	<p style="text-align: center;"><a href="http://www.juliecoudry.com/wp-content/uploads/2012/05/quien-te-dijo.jpg"><img class="size-full wp-image-1173 aligncenter" title="quien-te-dijo" src="http://www.juliecoudry.com/wp-content/uploads/2012/05/quien-te-dijo.jpg" alt="" width="500" height="375"></a></p>
+	<p style="text-align: center;"><a href="/juliecoudry/uploads/2012/05/quien-te-dijo.jpg"><img class="size-full wp-image-1173 aligncenter" title="quien-te-dijo" src="/juliecoudry/uploads/2012/05/quien-te-dijo.jpg" alt="" width="500" height="375"></a></p>
 	<p><strong><span style="color: #800080;">Mais c’est sans compter sur le retour des “gros cons”</span></strong> (souvent des hommes mais pas que…) Ceux qui ne peuvent pas s’empêcher de faire subir aux autres, l’effet que produisent sur eux cette remontée de chaleur et la vue d’épaules et autres débuts de cuisse.</p>
 	<p><strong><span style="color: #800080;">Les “so basic”</span></strong></p>
 	<p>Il y a ceux qui, passablement transformés en animaux, se mettent à s’adresser aux filles qui passent avec le langage utilisé pour communiquer avec les chiens (en l’occurrence les chiennes) “psit psit”, “nki nki”, “hsu hsu”. Basiques, on les imagine bien à quatre pattes en train de renifler le cul, d’une femelle qui passe.</p>

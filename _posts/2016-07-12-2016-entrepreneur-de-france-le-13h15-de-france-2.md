@@ -4,7 +4,7 @@ title: "Entrepreneurs de France le 13h15 de France 2"
 date: 2016-07-12T11:16:28+00:00
 ---
 <div class="entry-content" itemprop="text">
-<p><a href="http://www.francetvinfo.fr/replay-magazine/france-2/13h15/13h15-du-dimanche-27-mars-2016_1367735.html"><img class="alignleft size-medium wp-image-2551" src="http://www.juliecoudry.com/wp-content/uploads/2016/07/france-2-300x206.jpg" alt="france 2" width="300" height="206" srcset="http://www.juliecoudry.com/wp-content/uploads/2016/07/france-2-300x206.jpg 300w, http://www.juliecoudry.com/wp-content/uploads/2016/07/france-2-768x528.jpg 768w, http://www.juliecoudry.com/wp-content/uploads/2016/07/france-2.jpg 1016w" sizes="(max-width: 300px) 100vw, 300px"></a></p>
+<p><a href="http://www.francetvinfo.fr/replay-magazine/france-2/13h15/13h15-du-dimanche-27-mars-2016_1367735.html"><img class="alignleft size-medium wp-image-2551" src="/juliecoudry/uploads/2016/07/france-2-300x206.jpg" alt="france 2" width="300" height="206" srcset="/juliecoudry/uploads/2016/07/france-2-300x206.jpg 300w, /juliecoudry/uploads/2016/07/france-2-768x528.jpg 768w, /juliecoudry/uploads/2016/07/france-2.jpg 1016w" sizes="(max-width: 300px) 100vw, 300px"></a></p>
 <div class="sfsi_Sicons" style="width: 100%; display: inline-block; vertical-align: middle; text-align:left">
 <div style="margin:0px 8px 0px 0px; line-height: 24px"><span>Suivez &amp; Partagez</span></div>
 <div class="sfsi_socialwpr">

@@ -4,7 +4,7 @@ title: "Ubérisation, ruptures, disruption : le marché du travail est le procha
 date: 2016-07-12T11:09:48+00:00
 ---
 <div class="entry-content" itemprop="text">
-<p><a href="http://www.journaldunet.com/management/expert/63080/uberisation--ruptures--disruption---le-marche-du-travail-est-le-prochain-sur-la-liste.shtml"><img class="alignleft size-medium wp-image-2545" src="http://www.juliecoudry.com/wp-content/uploads/2016/07/Capture-d%E2%80%99e%CC%81cran-2016-07-12-a%CC%80-12.07.26-300x209.png" alt="Capture d’écran 2016-07-12 à 12.07.26" width="300" height="209" srcset="http://www.juliecoudry.com/wp-content/uploads/2016/07/Capture-d’écran-2016-07-12-à-12.07.26-300x209.png 300w, http://www.juliecoudry.com/wp-content/uploads/2016/07/Capture-d’écran-2016-07-12-à-12.07.26.png 642w" sizes="(max-width: 300px) 100vw, 300px"></a></p>
+<p><a href="http://www.journaldunet.com/management/expert/63080/uberisation--ruptures--disruption---le-marche-du-travail-est-le-prochain-sur-la-liste.shtml"><img class="alignleft size-medium wp-image-2545" src="/juliecoudry/uploads/2016/07/Capture-d%E2%80%99e%CC%81cran-2016-07-12-a%CC%80-12.07.26-300x209.png" alt="Capture d’écran 2016-07-12 à 12.07.26" width="300" height="209" srcset="/juliecoudry/uploads/2016/07/Capture-d’écran-2016-07-12-à-12.07.26-300x209.png 300w, /juliecoudry/uploads/2016/07/Capture-d’écran-2016-07-12-à-12.07.26.png 642w" sizes="(max-width: 300px) 100vw, 300px"></a></p>
 <div class="sfsi_Sicons" style="width: 100%; display: inline-block; vertical-align: middle; text-align:left">
 <div style="margin:0px 8px 0px 0px; line-height: 24px"><span>Suivez &amp; Partagez</span></div>
 <div class="sfsi_socialwpr">

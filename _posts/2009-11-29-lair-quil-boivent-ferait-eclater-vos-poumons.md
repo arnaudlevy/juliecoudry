@@ -68,7 +68,7 @@ date: 2009-11-29T08:06:00+00:00
 	<p style="text-align: right;">G.Brassens <em>Les oiseaux de passage </em>du <a href="http://poesie.webnet.fr/lesgrandsclassiques/poemes/jean_richepin/les_oiseaux_de_passage.html">poème de Jean Richepin</a></p>
 	<p style="text-align: right;">
 	</p>
-<p>le son à télécharger <a href="http://www.juliecoudry.com/wp-content/uploads/2009/11/2-09-les-oiseaux-de-passage.m4a">les-oiseaux-de-passage</a></p>
+<p>le son à télécharger <a href="/juliecoudry/uploads/2009/11/2-09-les-oiseaux-de-passage.m4a">les-oiseaux-de-passage</a></p>
 	<p style="text-align: right;">
 </p>
 </div>

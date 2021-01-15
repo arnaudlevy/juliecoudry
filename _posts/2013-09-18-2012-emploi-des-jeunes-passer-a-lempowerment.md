@@ -4,7 +4,7 @@ title: "Emploi des jeunes, passer à l'empowerment"
 date: 2013-09-18T11:46:19+00:00
 ---
 <div class="entry-content" itemprop="text">
-<p><a href="http://lecercle.lesechos.fr/economie-societe/politique-eco-conjoncture/politique-economique/221143057/emploi-jeunes-passer-a-lem"><img class="alignleft size-full wp-image-2232" alt="Capture d’écran 2013-09-18 à 12.44.53" src="http://www.juliecoudry.com/wp-content/uploads/2013/09/Capture-d%E2%80%99%C3%A9cran-2013-09-18-%C3%A0-12.44.53.png" width="655" height="293" srcset="http://www.juliecoudry.com/wp-content/uploads/2013/09/Capture-d’écran-2013-09-18-à-12.44.53.png 655w, http://www.juliecoudry.com/wp-content/uploads/2013/09/Capture-d’écran-2013-09-18-à-12.44.53-300x134.png 300w" sizes="(max-width: 655px) 100vw, 655px"></a><br>
+<p><a href="http://lecercle.lesechos.fr/economie-societe/politique-eco-conjoncture/politique-economique/221143057/emploi-jeunes-passer-a-lem"><img class="alignleft size-full wp-image-2232" alt="Capture d’écran 2013-09-18 à 12.44.53" src="/juliecoudry/uploads/2013/09/Capture-d%E2%80%99%C3%A9cran-2013-09-18-%C3%A0-12.44.53.png" width="655" height="293" srcset="/juliecoudry/uploads/2013/09/Capture-d’écran-2013-09-18-à-12.44.53.png 655w, /juliecoudry/uploads/2013/09/Capture-d’écran-2013-09-18-à-12.44.53-300x134.png 300w" sizes="(max-width: 655px) 100vw, 655px"></a><br>
  <br>
  <br>
  </p>

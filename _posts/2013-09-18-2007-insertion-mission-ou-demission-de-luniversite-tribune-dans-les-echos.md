@@ -4,7 +4,7 @@ title: "Insertion : mission ou démission de l’université ? tribune dans Les 
 date: 2013-09-18T10:42:11+00:00
 ---
 <div class="entry-content" itemprop="text">
-<p dir="ltr"><a href="http://archives.lesechos.fr/archives/2007/LesEchos/19859-80-ECH.htm?texte=julie%20coudry"><img class="alignleft size-full wp-image-2189" alt="capt_LEch_mis_ou_dem" src="http://www.juliecoudry.com/wp-content/uploads/2013/09/capt_LEch_mis_ou_dem.png" width="594" height="260" srcset="http://www.juliecoudry.com/wp-content/uploads/2013/09/capt_LEch_mis_ou_dem.png 594w, http://www.juliecoudry.com/wp-content/uploads/2013/09/capt_LEch_mis_ou_dem-300x131.png 300w" sizes="(max-width: 594px) 100vw, 594px"></a></p>
+<p dir="ltr"><a href="http://archives.lesechos.fr/archives/2007/LesEchos/19859-80-ECH.htm?texte=julie%20coudry"><img class="alignleft size-full wp-image-2189" alt="capt_LEch_mis_ou_dem" src="/juliecoudry/uploads/2013/09/capt_LEch_mis_ou_dem.png" width="594" height="260" srcset="/juliecoudry/uploads/2013/09/capt_LEch_mis_ou_dem.png 594w, /juliecoudry/uploads/2013/09/capt_LEch_mis_ou_dem-300x131.png 300w" sizes="(max-width: 594px) 100vw, 594px"></a></p>
 <p> <br>
  <br>
  </p>

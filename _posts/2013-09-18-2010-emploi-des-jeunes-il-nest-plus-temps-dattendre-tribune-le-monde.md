@@ -4,7 +4,7 @@ title: "Emploi des jeunes, il n’est plus temps d’attendre Tribune Le Monde"
 date: 2013-09-18T11:30:18+00:00
 ---
 <div class="entry-content" itemprop="text">
-<p><a href="http://www.lemonde.fr/idees/article/2010/12/08/emploi-des-jeunes-il-n-est-plus-temps-d-attendre_1450388_3232.html"><img class="alignleft size-full wp-image-2219" alt="Capture d’écran 2013-09-18 à 12.28.49" src="http://www.juliecoudry.com/wp-content/uploads/2013/09/Capture-d%E2%80%99%C3%A9cran-2013-09-18-%C3%A0-12.28.49.png" width="608" height="457" srcset="http://www.juliecoudry.com/wp-content/uploads/2013/09/Capture-d’écran-2013-09-18-à-12.28.49.png 608w, http://www.juliecoudry.com/wp-content/uploads/2013/09/Capture-d’écran-2013-09-18-à-12.28.49-300x225.png 300w" sizes="(max-width: 608px) 100vw, 608px"></a><br>
+<p><a href="http://www.lemonde.fr/idees/article/2010/12/08/emploi-des-jeunes-il-n-est-plus-temps-d-attendre_1450388_3232.html"><img class="alignleft size-full wp-image-2219" alt="Capture d’écran 2013-09-18 à 12.28.49" src="/juliecoudry/uploads/2013/09/Capture-d%E2%80%99%C3%A9cran-2013-09-18-%C3%A0-12.28.49.png" width="608" height="457" srcset="/juliecoudry/uploads/2013/09/Capture-d’écran-2013-09-18-à-12.28.49.png 608w, /juliecoudry/uploads/2013/09/Capture-d’écran-2013-09-18-à-12.28.49-300x225.png 300w" sizes="(max-width: 608px) 100vw, 608px"></a><br>
  <br>
  <br>
  </p>

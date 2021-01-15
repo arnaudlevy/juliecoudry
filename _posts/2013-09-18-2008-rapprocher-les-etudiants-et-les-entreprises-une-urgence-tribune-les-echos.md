@@ -4,7 +4,7 @@ title: "Rapprocher les étudiants et les entreprises, une urgence, Tribune, Les 
 date: 2013-09-18T11:11:05+00:00
 ---
 <div class="entry-content" itemprop="text">
-<p dir="ltr"><a href="http://archives.lesechos.fr/archives/2008/LesEchos/20308-76-ECH.htm?texte=julie%20coudry"><img class="alignleft size-full wp-image-2209" alt="Capture d’écran 2013-09-18 à 12.08.39" src="http://www.juliecoudry.com/wp-content/uploads/2013/09/Capture-d%E2%80%99%C3%A9cran-2013-09-18-%C3%A0-12.08.39.png" width="600" height="256" srcset="http://www.juliecoudry.com/wp-content/uploads/2013/09/Capture-d’écran-2013-09-18-à-12.08.39.png 600w, http://www.juliecoudry.com/wp-content/uploads/2013/09/Capture-d’écran-2013-09-18-à-12.08.39-300x128.png 300w" sizes="(max-width: 600px) 100vw, 600px"></a></p>
+<p dir="ltr"><a href="http://archives.lesechos.fr/archives/2008/LesEchos/20308-76-ECH.htm?texte=julie%20coudry"><img class="alignleft size-full wp-image-2209" alt="Capture d’écran 2013-09-18 à 12.08.39" src="/juliecoudry/uploads/2013/09/Capture-d%E2%80%99%C3%A9cran-2013-09-18-%C3%A0-12.08.39.png" width="600" height="256" srcset="/juliecoudry/uploads/2013/09/Capture-d’écran-2013-09-18-à-12.08.39.png 600w, /juliecoudry/uploads/2013/09/Capture-d’écran-2013-09-18-à-12.08.39-300x128.png 300w" sizes="(max-width: 600px) 100vw, 600px"></a></p>
 <p> <br>
  <br>
  </p>

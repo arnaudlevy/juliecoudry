@@ -5,7 +5,7 @@ date: 2012-11-07T02:49:00+00:00
 ---
 <div class="main">
 		<p>Montez les bass et écoutez ça !</p>
-	<p><a href="http://www.juliecoudry.com/wp-content/uploads/2012/11/studio-triphon-flo-+jc.jpg"><img class="alignleft  wp-image-1419" title="studio triphon flo +jc" src="http://www.juliecoudry.com/wp-content/uploads/2012/11/studio-triphon-flo-+jc.jpg" alt="" width="461" height="461"></a></p>
+	<p><a href="/juliecoudry/uploads/2012/11/studio-triphon-flo-+jc.jpg"><img class="alignleft  wp-image-1419" title="studio triphon flo +jc" src="/juliecoudry/uploads/2012/11/studio-triphon-flo-+jc.jpg" alt="" width="461" height="461"></a></p>
 	<p><span style="font-family: Calibri,sans-serif;"><span style="font-weight: normal;"><br>
 <p class="audioplayer_container"><span style="display:block;padding:5px;border:1px solid #dddddd;background:#f8f8f8" id="audioplayer_1">Clip audio : Le lecteur Adobe Flash (version 9 ou plus) est nécessaire pour la lecture de ce clip audio. Téléchargez la dernière version <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&amp;promoid=BIOW" title="Download Adobe Flash Player">ici</a>. Vous devez aussi avoir JavaScript activé dans votre navigateur.</span></p>
 </span></span></p>
